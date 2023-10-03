@@ -11,8 +11,7 @@ namespace Exercise_21
         static void Main(string[] args)
         {
             int note, upmoy,downmoy,k;
-            note = 0;
-            k = 0;
+            
             upmoy = 0;
             downmoy = 0;
             Console.WriteLine("entrez vos notes");
